@@ -1,0 +1,15 @@
+A one-page write-up, in PDF form, detailing any challenges you experienced and how you dealt with them.
+
+1. A basic understanding of argument parser 
+Instead of having to manually set variables inside of the code, argparse can be used to code. In this homework, I learned argparse module can be used to add flexibility and reusability of code by allowing user input value to be parsed and utilized.
+
+2. In "write_tags" function:
+The logic should be reversed comepare to "read_tags" function so I used " ".join(tags) + '\n'.
+I also used writelines() at the end of for loop because writing data just once is ideal. 
+
+3. Other minor problems: 
+Since I am not familiar with Linux OS, I searched Window OS command line executor in google.
+
+
+
+
